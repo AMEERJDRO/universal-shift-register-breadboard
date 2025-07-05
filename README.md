@@ -15,7 +15,7 @@
 
 | Section         | Description                                      |
 |-----------------|--------------------------------------------------|
-| 🧪 [`/simulation`](./simulation)   | Circuit simulation setup, IC behavior |
+| 🧪 [`/simulation`](./Simulation.png)   | Circuit simulation setup, IC behavior |
 | 📈 [`/OP1`](./OP1)               | Output test 1 screenshots/results     |
 | 📉 [`/OP2`](./OP2)               | Output test 2 with variation data     |
 | 🎤 [`/presentation`](./presentation) | Final project PPT (`.ppsx`)          |
