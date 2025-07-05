@@ -16,9 +16,9 @@
 | Section         | Description                                      |
 |-----------------|--------------------------------------------------|
 | 🧪 [`/simulation`](./Simulation.png)   | Circuit simulation setup, IC behavior |
-| 📈 [`/OP1`](./OP1)               | Output test 1 screenshots/results     |
-| 📉 [`/OP2`](./OP2)               | Output test 2 with variation data     |
-| 🎤 [`/presentation`](./presentation) | Final project PPT (`.ppsx`)          |
+| 📈 [`/OP1`](./OP1.jpg)               | Output test 1 screenshots/results     |
+| 📉 [`/OP2`](./OP2.jpg)               | Output test 2 with variation data     |
+| 🎤 [`/presentation`](./Data_Shifting_Presentation.ppsx) | Final project PPT (`.ppsx`)          |
 
 ---
 
